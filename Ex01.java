@@ -1,6 +1,12 @@
 import java.util.Scanner;
 
 // LISTA DE EXERCICIO 3
+public Aluno(){
+    public class al {
+    
+        
+    }
+}
 
 public class Ex01 {
     public void ex01() {

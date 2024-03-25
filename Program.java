@@ -33,7 +33,10 @@ public class Program {
         // Ex11 ex11 = new Ex11();
         // ex11.ex11();
 
-        Ex12 ex12 = new Ex12();
-        ex12.ex12();
+        // Ex12 ex12 = new Ex12();
+        // ex12.ex12();
+
+        Ex13 ex13 = new Ex13();
+        ex13.ex13();
     }
 }
