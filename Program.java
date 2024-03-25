@@ -21,7 +21,10 @@ public class Program {
         // Ex07 ex07 = new Ex07();
         // ex07.ex07();
         
-        Ex08 ex08 = new Ex08();
-        ex08.ex08();
+        // Ex08 ex08 = new Ex08();
+        // ex08.ex08();
+
+        Ex09 ex09 = new Ex09();
+        ex09.ex09();    
     }
 }
