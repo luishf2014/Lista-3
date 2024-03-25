@@ -32,3 +32,6 @@ public class Ex01 {
 // Escrever um programa que leia o nome de um aluno e as
 // notas das três provas que ele obteveno semestre.
 // No final informar o nome do aluno e a sua média (aritmética).
+
+//
+//
