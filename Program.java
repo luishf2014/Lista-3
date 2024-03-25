@@ -15,10 +15,11 @@ public class Program {
         // Ex05 ex05 = new Ex05();
         // ex05.ex05();
 
-        Ex06 ex06 = new Ex06();
-        ex06.ex06();
+        // Ex06 ex06 = new Ex06();
+        // ex06.ex06();
 
-
+        Ex07 ex07 = new Ex07();
+        ex07.ex07();
 
     }
 }
