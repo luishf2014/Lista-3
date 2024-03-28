@@ -23,7 +23,7 @@ public class CalculadoraPrecoVenda {
     }
     
     // Método para calcular o preço de venda com base no preço de custo e percentual de acréscimo
-    public static double calcularPrecoVenda(double precoCusto, double percentualAcrescimo) {
+    public double calcularPrecoVenda(double precoCusto, double percentualAcrescimo) {
         return precoCusto * (1 + percentualAcrescimo / 100);
     }
 }
