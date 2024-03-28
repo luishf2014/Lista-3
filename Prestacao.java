@@ -16,7 +16,7 @@ public class Prestacao {
 
     
     // Método para calcular o valor de cada prestação
-    public static double calcularPrestacao(double compra) {
+    public double calcularPrestacao(double compra) {
         return compra / NUMERO_PRESTACOES;
     }
 }
