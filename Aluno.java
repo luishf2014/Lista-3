@@ -47,7 +47,7 @@ public class Aluno {
         this.nota3 = nota3;
     }
 
-    public static Double media(Double nota1, Double nota2, Double nota3){
+    public Double media(Double nota1, Double nota2, Double nota3){
         return (nota1 + nota2 + nota3) / 3;
     }
 }   
