@@ -16,7 +16,7 @@ public class CustoCarro {
     }
     
     // Método para calcular o custo ao consumidor
-    public static double CustoConsumidor(Double custoFabrica) {
+    public double CustoConsumidor(Double custoFabrica) {
         double custoComImpostos = custoFabrica * (1 + IMPOSTOS);
         double custoComDistribuidor = custoComImpostos * (1 + PORCENTAGEM_DISTRIBUIDOR);
         return custoComDistribuidor;
