@@ -28,7 +28,7 @@ public class Automovel {
         this.combustivel = combustivel;
     }
 
-    public static Double Consumo(Double distacia, Double combustivel){
+    public Double Consumo(Double distacia, Double combustivel){
         return distacia / combustivel;
 
     }
