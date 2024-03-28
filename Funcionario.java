@@ -39,7 +39,7 @@ public void setVendas(int vendas){
 }
 
 
-public static Double salarioFinal(Double salarioFixo, int i){
+public Double salarioFinal(Double salarioFixo, int i){
     return salarioFixo + (i * 0.15);
 }
 }
