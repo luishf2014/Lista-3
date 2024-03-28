@@ -42,7 +42,10 @@ public class Program {
         // Ex14 ex14 = new Ex14();
         // ex14.ex14();
         
-        Ex15 ex15 = new Ex15();
-        ex15.ex15();
+        // Ex15 ex15 = new Ex15();
+        // ex15.ex15();
+
+        Ex16 ex16 = new Ex16();
+        ex16.ex16();
     }
 }
