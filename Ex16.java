@@ -30,7 +30,7 @@ public class Ex16 {
         double totalReajuste = 0;
 
         // Loop para calcular o reajuste salarial de cada funcionário
-        for (int i = 1; i <= 2; i++) {
+        for (int i = 1; i <= 584; i++) {
             // Solicita o salário atual do funcionário
             System.out.print("\nDigite o salário atual do funcionário " + i + ": ");
             reajusteSalario.setSalarioAtual(leitor.nextDouble());
