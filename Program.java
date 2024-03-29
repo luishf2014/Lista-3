@@ -54,7 +54,10 @@ public class Program {
         // Ex18 ex18 = new Ex18();
         // ex18.ex18();
 
-        Ex19 ex19 = new Ex19();
-        ex19.ex19();
+        // Ex19 ex19 = new Ex19();
+        // ex19.ex19();
+
+        Ex20 ex20 = new Ex20();
+        ex20.ex20();
     }
 }
