@@ -1,3 +1,4 @@
+// EXERCICIO 10
 public class VerificadorIdade {
     // Método para verificar se uma pessoa é maior de idade
     public static String verificadorIdade(int idade) {
