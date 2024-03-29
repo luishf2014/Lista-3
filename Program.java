@@ -60,7 +60,10 @@ public class Program {
         // Ex20 ex20 = new Ex20();
         // ex20.ex20();
 
-        Ex21 ex21 = new Ex21();
-        ex21.ex21();
+        // Ex21 ex21 = new Ex21();
+        // ex21.ex21();
+
+        Ex22 ex22 = new Ex22();
+        ex22.ex22();
     }
 }
