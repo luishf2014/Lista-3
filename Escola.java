@@ -1,3 +1,4 @@
+// EXERCICIO 08
 public class Escola {
     private String nome;
     private double nota1, nota2, nota3;
