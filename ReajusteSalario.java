@@ -1,3 +1,4 @@
+// EXERCICIO 16
 public class ReajusteSalario {
     private Double salarioMinimo;
     private Double salarioAtual;
