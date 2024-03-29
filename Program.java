@@ -48,7 +48,10 @@ public class Program {
         // Ex16 ex16 = new Ex16();
         // ex16.ex16();
 
-        Ex17 ex17 = new Ex17();
-        ex17.ex17();
+        // Ex17 ex17 = new Ex17();
+        // ex17.ex17();
+
+        Ex18 ex18 = new Ex18();
+        ex18.ex18();
     }
 }
