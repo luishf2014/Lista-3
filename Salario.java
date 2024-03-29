@@ -1,3 +1,4 @@
+// EXERCICIO 17
 public class Salario {
     private String nome;
     private double salario;
