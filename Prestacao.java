@@ -1,3 +1,4 @@
+// EXERCICIO 05
 public class Prestacao {
     private static final int NUMERO_PRESTACOES = 5;
     private int compra;
