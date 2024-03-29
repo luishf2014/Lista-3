@@ -1,3 +1,4 @@
+// EXERCICIO 02
 public class Automovel {
     private Double distancia;
     private Double combustivel;
