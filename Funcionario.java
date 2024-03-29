@@ -1,3 +1,4 @@
+// EXERCICIO 03
 public class Funcionario {
     private String nome;
     private Double salarioFixo;
