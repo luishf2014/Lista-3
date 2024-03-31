@@ -72,9 +72,10 @@ public class Program {
         // Ex24 ex24 = new Ex24();
         // ex24.ex24();
         
-        Ex25 ex25 = new Ex25();
-        ex25.ex25();
+        // Ex25 ex25 = new Ex25();
+        // ex25.ex25();
 
-
+        Ex26 ex26 = new Ex26();
+        ex26.ex26();
     }
 }
