@@ -22,18 +22,18 @@ public class Laboratorio {
         this.notaLaboratorio = notaLaboratorio;
     }
     
-    // --------- notaAvaliacao ----------
+    // --------- nota Avaliacao ----------
     public Double getNotaAvaliacao(){
-        return this.notaLaboratorio;
+        return this.notaAvaliacao;
     }
     
     public void setNotaAvaliacao(Double notaAvaliacao){
         this.notaAvaliacao = notaAvaliacao;
     }
 
-    // --------- Nome ----------
+    // --------- Nota Exame ----------
     public Double getNotaExame(){
-        return this.notaLaboratorio;
+        return this.notaExame;
     }
     
     public void setNotaExame(Double notaExame){
