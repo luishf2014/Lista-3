@@ -1,3 +1,4 @@
+// EXERCICIO 24
 public class Laboratorio {
     private Double notaLaboratorio;
     private Double notaAvaliacao;
